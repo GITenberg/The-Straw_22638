@@ -1,0 +1,30 @@
+_repo: The-Straw_22638
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: O'Neill, Eugene
+    aliases:
+    - O'Neill, Eugene Gladstone
+    - O'Neill, Eugene G. (Eugene Gladstone)
+    birthdate: 1888
+    deathdate: 1953
+    gutenberg_agent_id: '1359'
+    url: http://www.gutenberg.org/2009/agents/1359
+    wikipedia: http://en.wikipedia.org/wiki/Eugene_O'Neill
+description: ''
+gutenberg_issued: '2007-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22638'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American drama'
+title: The Straw
+url: http://www.gutenberg.org/ebooks/22638
